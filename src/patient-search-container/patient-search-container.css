@@ -1,0 +1,10 @@
+.searchContainer {
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  margin-top: 35px;
+  width: 500px;
+  margin: 76px auto 0 auto;
+  box-shadow: 0 10px 30px -24px #b3b3b3;
+  padding: 16px;
+}
